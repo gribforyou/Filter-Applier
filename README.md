@@ -8,3 +8,6 @@ This application allows you to apply **high-pass** and **hystogramm equalization
 
 ## Technologies
 This project is writed on **Qt creator 6.7.0** framework with **C++** programming language and with using **openCV** lib
+
+## Instalition guide
+For using this app you should download **FilterApplier.zip** and run **pkg_3.exe**
